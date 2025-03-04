@@ -28,6 +28,7 @@ http://localhost:8080/chatting?username=xiaoshaofufu
 
 
 然后在 http://localhost:8080/chatting?username=xiaoyexianseng 中打开 找 xiaoshaofufu 聊天，http://localhost:8080/chatting?username=xiaoshaofufu 中接收来自  xiaoyexianseng 的消息
+<img width="613" alt="image" src="https://github.com/user-attachments/assets/d315f631-e434-4e50-9eca-05e335988b36" />
 
 
 具体效果自行测试
